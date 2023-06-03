@@ -1,0 +1,4 @@
+ls
+touch newFile
+ls
+echo "done"
